@@ -1,0 +1,2 @@
+gitignore datoteka odreduje namjerno nepracene datoteke koje Git treba ignorirati. Datoteke koje Git vec prati nisu pogodene
+
